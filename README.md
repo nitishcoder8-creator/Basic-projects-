@@ -1,2 +1,3 @@
 # Basic-projects-
-I am learning python.main abhi bhi base majboot kar raha hu 
+maine toh abhi python seekhna shuru ho Kiya hai aur abhi main fundamental ko majboot kar raha hu 
+
